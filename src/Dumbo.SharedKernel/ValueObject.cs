@@ -1,4 +1,4 @@
-﻿namespace Ardalis.SharedKernel;
+﻿namespace Dumbo.SharedKernel;
 
 /// <summary>
 /// NOTE: Use `readonly record struct` for most cases in C# 10+

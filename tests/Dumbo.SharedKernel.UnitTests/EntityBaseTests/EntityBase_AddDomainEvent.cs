@@ -1,4 +1,5 @@
-﻿using FluentAssertions;
+﻿using Dumbo.SharedKernel;
+using FluentAssertions;
 using Xunit;
 
 namespace Ardalis.SharedKernel.UnitTests.EntityBaseTests;

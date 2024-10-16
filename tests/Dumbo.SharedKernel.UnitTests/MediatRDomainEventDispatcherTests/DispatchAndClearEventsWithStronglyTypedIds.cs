@@ -1,4 +1,5 @@
-﻿using FluentAssertions;
+﻿using Dumbo.SharedKernel;
+using FluentAssertions;
 using MediatR;
 using Microsoft.Extensions.Logging.Abstractions;
 using Moq;

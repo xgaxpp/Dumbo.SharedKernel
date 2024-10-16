@@ -1,4 +1,4 @@
-﻿namespace Ardalis.SharedKernel;
+﻿namespace Dumbo.SharedKernel;
 
 public interface IHasDomainEvents
 {

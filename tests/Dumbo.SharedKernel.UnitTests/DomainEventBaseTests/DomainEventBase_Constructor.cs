@@ -1,4 +1,5 @@
-﻿using Xunit;
+﻿using Dumbo.SharedKernel;
+using Xunit;
 using FluentAssertions;
 
 namespace Ardalis.SharedKernel.UnitTests.DomainEventBaseTests;
