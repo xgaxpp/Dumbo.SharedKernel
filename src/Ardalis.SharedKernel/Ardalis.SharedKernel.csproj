@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyName>Ardalis.SharedKernel</AssemblyName>
-    <PackageId>Ardalis.SharedKernel</PackageId>
-    <Title>Ardalis.SharedKernel</Title>
+    <AssemblyName>Dumbo.SharedKernel</AssemblyName>
+    <PackageId>Dumbo.SharedKernel</PackageId>
+    <Title>Dumbo.SharedKernel</Title>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>Steve Smith (@ardalis)</Authors>
-    <Company>Ardalis.com</Company>
+    <Authors>xgaxpp</Authors>
+    <Company>Dumbo.com</Company>
     <Description>An example shared kernel project/package for use with Ardalis.CleanArchitecture template. You should probably replace this with your own package!</Description>
     <Summary>An example shared kernel project/package for use with Ardalis.CleanArchitecture template</Summary>
     <PackageProjectUrl>https://github.com/ardalis/Ardalis.SharedKernel</PackageProjectUrl>
